@@ -129,7 +129,7 @@ h2 {
 }
 
 .corpo-3 {
-    background: #ffdaed;
+    background: #ffe1d0;
     padding-bottom: 30px;
     border-top: 0.5px solid black;
     border-bottom: 0.5px solid black;
@@ -143,8 +143,8 @@ h2 {
     align-items: center;
     justify-content: space-around;
     padding-top: 30px;
-    border-top: 0.5px solid rgb(14, 13, 14);
-    color: rgb(250, 153, 221);
+    border-top: 0.5px solid black(14, 13, 14);
+    color:black;
     margin-left: 60px;
     font-family: 'Ibarra Real Nova', serif;
 }
@@ -197,7 +197,7 @@ h2 {
 }
 
 .rodape {
-    background-color: #f883db;
+    background-color:#ffe1d0;
     padding-top: 30px;
     text-align: center;
     width: 100%;
@@ -205,7 +205,7 @@ h2 {
 }
 
 .rodape p {
-    color: white;
+    color: black;
 }
 
 /* animaçao scrool */
@@ -292,7 +292,7 @@ h2 {
         justify-content: space-around;
         padding-top: 30px;
         border-top: 0.5px solid rgb(14, 13, 14);
-        color: rgb(250, 153, 221);
+        color:#ffe1d0;
         font-size: large;
         margin-left: 10%;
 
@@ -384,7 +384,7 @@ h2 {
         justify-content: space-around;
         padding-top: 30px;
         border-top: 0.5px solid rgb(14, 13, 14);
-        color: rgb(250, 153, 221);
+        color: #ffe1d0;
         font-size: large;
         margin-left: 10%;
 
